@@ -27,8 +27,17 @@ b) 3 x 5 ?
 ```
 c) what is the inverse of 3?
 
+c 5 (3**(7-2) = 243, mod 7 = 5)
+
 **answer**:
 ```
+
+3^-1 
+=> 3**(7-2)
+=> 243 
+=> 243 mod 7
+=> 5 mod 7 
+=> 5
 
 ```
 
@@ -36,18 +45,32 @@ c) what is the inverse of 3?
 
 **answer**: 
 
+```
+
+yes
+
+```
+
 
 3. what is -13 mod 5? <br />
 
 **answer**: 
 ```
 
+-13 mod 5 
+=> -3 mod 5
+=> 2 mod 5
+=> 2 
+
 ```
+
 
 ## User Cases:
 
 In your groups, think of some use cases of zero knowledge proofs
 What problems are there when using zkps in real world situations ? <br />
 
+**There are several use cases of zero-knowledge proofs. Some are:**
 
-
+    1. privacy-preserving application
+    2. scalability
