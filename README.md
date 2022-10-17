@@ -57,3 +57,17 @@ This repository is for the uploading the daily homework assigned in the encode z
 
   [Homework](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week2/day5/Homework8.pdf) <br/>
   [Solution](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week2/day5/solution.md)
+
+## Week 3:
+
+### Day 1: 
+
+  [Homework](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week3/day1/Homework9.pdf) <br/>
+  [Solution](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week3/day1/solution.md)
+
+
+### Day 2: 
+
+
+  [Homework](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week3/day2/Homework10.pdf) <br/>
+  [Solution](https://github.com/sleepyqadir/Encode-zk-bootcamp/blob/main/week3/day2/solution.md)
